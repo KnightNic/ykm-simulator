@@ -15,7 +15,7 @@
 
 Cloudflare: [ykm.pages.dev](https://ykm.pages.dev)
 
-Netlify: [kind-snyder-68dad8.netlify.app](https://kind-snyder-68dad8.netlify.app)
+Netlify: [fluffy-smakager-44ec07.netlify.app](https://fluffy-smakager-44ec07.netlify.app)
 
 使用 Demo 时请注意：我们不会主动收集任何访问数据，但不保证网站托管的服务商不会收集访问信息。若担心隐私，可以从 [GitHub Releases](https://github.com/ilovexjp/jkb-simulator/releases) 中下载源码自行部署。
 
