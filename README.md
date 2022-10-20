@@ -9,7 +9,11 @@
 ## 使用说明
 
 - 点击姓名、城市、打卡地点等可以修改相应信息
-- 点击二维码可以切换“粤康码”及“粤康码场所通行”
+- 点击二维码可以切换 “粤康码” 及 “粤康码场所通行” 页面
+- 可以作为 PWA (Progressive Web Apps) 添加到主屏幕上
+  - 在 Safari (iOS) 上，点击下方“分享”按钮，再点击“添加至主屏幕”
+  - 在 Chrome (Android) 上，点击右上角菜单按钮，再点击“添加至主屏幕”
+  - 在 Firefox (Android) 上，点击右上角菜单按钮，再点击“安装”
 
 ## 网页 Demo
 
@@ -17,7 +21,7 @@ Cloudflare: [ykm.pages.dev](https://ykm.pages.dev)
 
 Netlify: [fluffy-smakager-44ec07.netlify.app](https://fluffy-smakager-44ec07.netlify.app)
 
-使用 Demo 时请注意：我们不会主动收集任何访问数据，但不保证网站托管的服务商不会收集访问信息。若担心隐私，可以从 [GitHub Releases](https://github.com/ilovexjp/jkb-simulator/releases) 中下载源码自行部署。
+使用 Demo 时请注意：我们不会主动收集任何访问数据，但不保证网站托管的服务商不会收集访问信息。若担心隐私，可以从 [GitHub Releases](https://github.com/ilovexjp/ykm-simulator/releases) 中下载源码自行部署。
 
 ## 附言
 
